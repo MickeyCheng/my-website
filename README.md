@@ -1,8 +1,14 @@
-# my-website
+# My-website
 
-this is a really awesome website
+This is a really awesome website
 
-updates made on master on  github before rebase 
+Updates made on master on  github before rebase 
 
-Repository Purpose
-This is just a readme file
+ Repository Purpose
+
+This file is just a readme file
+
+## Purpose
+
+The purpose of this file is to provide examples
+on how to use Git and GitHub together.
